@@ -6,7 +6,7 @@
 
 <div style="display: inline_block" align="center">
 <a href="https://github.com/nataly-costa">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=nataly-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true=tokyonight"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataly-costa&layout=compact&langs_count=7&theme=dracula"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nataly-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataly-costa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
