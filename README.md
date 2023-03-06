@@ -30,7 +30,7 @@
  <img align="center" alt="Figma" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
   
-  
+ ![snake gif](https://github.com/nataly-costa/nataly-costa/blob/output/github-contribution-grid-snake.svg)
   
   
   
