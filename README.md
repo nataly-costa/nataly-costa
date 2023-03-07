@@ -20,14 +20,14 @@
   <img align="center" alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Oracle SQL" height="47" width="70" src="https://user-images.githubusercontent.com/87160095/199339101-f632e940-ba2a-482b-8ddb-0de21785d7b1.svg"/>
   <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Python" height="50" width="90" src="https://user-images.githubusercontent.com/94317936/223279499-fb355c7d-b877-4fe9-b7f7-41b683e7bb20.png"/>
+  <img align="center" alt="Python" height="50" width="100" src="https://user-images.githubusercontent.com/94317936/223279499-fb355c7d-b877-4fe9-b7f7-41b683e7bb20.png"/>
 </div>
   
 <h2> :hibiscus: Complementares:</h2>
 <div style="display: inline_block" align="center">
  <img align="center" alt="Linux" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
  <img align="center" alt="Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
- <img align="center" alt="Figma" height="50" width="170" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+ <img align="center" alt="Figma" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
   
 
