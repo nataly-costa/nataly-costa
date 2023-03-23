@@ -2,7 +2,7 @@
 
 <h1 align='center'><img width=20% src="https://user-images.githubusercontent.com/94317936/222513337-1220e02e-04c4-4b67-af3b-33deac9e29ac.jpg"/></h1> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6f9c&size=35&center=true&vCenter=true&width=1000&lines=안녕하세요,+meu+nome+é+Nataly+Rocha.;Tenho+20+anos.;Moro+em+Votorantim.;Sou+estudante+de+Bakc-end+e+Animação.;Bem-Vindo+a+minha+toca!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6f9c&size=35&center=true&vCenter=true&width=1000&lines=안녕하세요,+meu+nome+é+Nataly+Rocha.;Tenho+20+anos.;Moro+em+Votorantim.;Sou+estudante+de+Back-end+e+Animação.;Bem-Vindo+a+minha+toca!)](https://git.io/typing-svg)
 
 <div style="display: inline_block" align="center">
 <a href="https://github.com/nataly-costa">
